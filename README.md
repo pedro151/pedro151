@@ -1,10 +1,3 @@
-<style>
-img {
-  display: inline-block;
-  border-radius: 25px;
-}
-</style>
-
 ## Olá, sou a Pedro Alarcão, Bem Vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/pedro151">
