@@ -30,8 +30,11 @@
 ## My Skill Set  
 <!-- 
    Icon's author 
-   [https://github.com/Envoy-VC/Badges-for-GitHub]
-   [https://dev.to/envoy_/150-badges-for-github-pnk]
+     [https://github.com/Envoy-VC/Badges-for-GitHub]
+     [https://dev.to/envoy_/150-badges-for-github-pnk]
+   Framework Labels
+     [https://shields.io/]
+     [https://simpleicons.org/]
 -->
 <table><tr><td valign="top" width="33%">
 
