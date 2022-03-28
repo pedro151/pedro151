@@ -5,18 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro151&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!-- -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro151-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro151-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Pedro151-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Pedro151-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro151-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Pedro151-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Pedro151-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
- 
-  <img align="center" alt="Pedro151-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  </div>
   
   <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  loading="lazy"  height="28">
@@ -41,7 +29,11 @@
 </div>
 <br>
 
+
 ## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
 
 ### Frontend  
 <div align="center">  
@@ -97,3 +89,5 @@
 </div>
 
 </td></tr></table>  
+
+<br/>  
