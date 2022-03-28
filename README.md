@@ -9,7 +9,7 @@
   <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  loading="lazy"  height="28">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  loading="lazy" height="28">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  loading="lazy"  height="28">
+    <img src="https://img.shields.io/badge/Java-CC2927?style=for-the-badge&logo=java&logoColor=white"  loading="lazy"  height="28">
   </div>
   
   ##
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"  loading="lazy"  height="28">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  loading="lazy"  height="28">
+    <img src="https://img.shields.io/badge/Java-CC2927?style=for-the-badge&logo=java&logoColor=white"  loading="lazy"  height="28">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  loading="lazy"  height="28">
   </div>
   <div>
