@@ -1,4 +1,4 @@
-## Olá, sou a Pedro Alarcão, Bem Vindo ao meu GitHub!
+## Olá, sou Pedro Alarcão, Bem Vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/pedro151">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro151&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
